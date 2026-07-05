@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title">
+  <title id="title">Taylor Roofing social preview</title>
+  <rect width="1200" height="630" fill="#101010"/>
+  <path d="M0 520h1200" stroke="#f0b428" stroke-width="24"/>
+  <path d="M96 290 318 160l222 130" fill="none" stroke="#c8202f" stroke-width="28" stroke-linejoin="miter"/>
+  <path d="M156 318h324v42H156z" fill="#ffffff"/>
+  <path d="M238 360v-86h158v86h-42v-45h-74v45z" fill="#ffffff"/>
+  <text x="610" y="285" fill="#ffffff" font-family="Arial Black, Helvetica, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="-3">TAYLOR</text>
+  <text x="614" y="366" fill="#f0b428" font-family="Arial Black, Helvetica, Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="7">ROOFING</text>
+  <text x="614" y="442" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="3">RESIDENTIAL ROOFING / STORM REPAIR / GUTTERS</text>
+</svg>

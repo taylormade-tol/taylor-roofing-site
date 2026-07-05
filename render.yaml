@@ -1,0 +1,6 @@
+services:
+  - type: static_site
+    name: taylor-roofing-site
+    buildCommand: echo "Static site ready"
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false
