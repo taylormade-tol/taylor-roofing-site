@@ -44,6 +44,6 @@ contactForm?.addEventListener("submit", (event) => {
   }
 
   if (formStatus) {
-    formStatus.textContent = "Your Taylor Roofing inquiry is ready to send once the final form destination is connected.";
+    formStatus.textContent = "For the fastest response, call Glen at 567.686.3162 or email Glen@taylorroofingsiding.com.";
   }
 });
