@@ -41,9 +41,14 @@ updateScrollState();
 contactForm?.addEventListener("submit", (event) => {
   if (contactForm.getAttribute("action") === "#") {
     event.preventDefault();
+
+    if (formStatus) {
+      formStatus.textContent = "For the fastest response, call Glen at 567.686.3162 or email Glen@taylorroofingsiding.com.";
+    }
+    return;
   }
 
   if (formStatus) {
-    formStatus.textContent = "For the fastest response, call Glen at 567.686.3162 or email Glen@taylorroofingsiding.com.";
+    formStatus.textContent = "Sending your message to Taylor Roofing & Siding.";
   }
 });
